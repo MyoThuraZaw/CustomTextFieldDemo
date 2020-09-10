@@ -13,6 +13,7 @@
 		E3ED3B21250A4E470067D5C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3ED3B1F250A4E470067D5C5 /* Main.storyboard */; };
 		E3ED3B23250A4E490067D5C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3ED3B22250A4E490067D5C5 /* Assets.xcassets */; };
 		E3ED3B26250A4E490067D5C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3ED3B24250A4E490067D5C5 /* LaunchScreen.storyboard */; };
+		E3ED3B2E250A4E5D0067D5C5 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3ED3B2D250A4E5D0067D5C5 /* CustomTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E3ED3B22250A4E490067D5C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3ED3B25250A4E490067D5C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3ED3B27250A4E490067D5C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3ED3B2D250A4E5D0067D5C5 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E3ED3B22250A4E490067D5C5 /* Assets.xcassets */,
 				E3ED3B24250A4E490067D5C5 /* LaunchScreen.storyboard */,
 				E3ED3B27250A4E490067D5C5 /* Info.plist */,
+				E3ED3B2D250A4E5D0067D5C5 /* CustomTextField.swift */,
 			);
 			path = CustomTextFieldsDemo;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3ED3B2E250A4E5D0067D5C5 /* CustomTextField.swift in Sources */,
 				E3ED3B1E250A4E470067D5C5 /* ViewController.swift in Sources */,
 				E3ED3B1A250A4E470067D5C5 /* AppDelegate.swift in Sources */,
 				E3ED3B1C250A4E470067D5C5 /* SceneDelegate.swift in Sources */,
